@@ -48,9 +48,9 @@ $ notebook
 
 Which will start a notebook session in the browser from which you can inspect the notebook files.
 
-## Pipeline
-![alt text](https://github.com/levrex/referral_ml/blob/master/figures/md/FigureS1_workflow.png "Pipeline ML-Prediction RA diagnosis")
-Pipeline displaying the general workflow, where the green sections are performed automatically and the blue parts require manual evaluation. A simple annotation (binary Yes or No) will suffice, thus reducing the mental load of the physician.
+## Pipeline of the ML project
+![alt text](figures/md/FigureS1_workflow.png)
+General study flow showing the different steps of our approach.
 
 ## Citation
 If you were to use this pipeline, please cite our abstract (paper is in the making): 
