@@ -1,0 +1,7 @@
+src/.ipynb_checkpoints/
+src/__pycache__/
+slurm-*
+proc/extra/df_GroNLP_*
+custom_environment/
+extractions/
+figures/tuning/
