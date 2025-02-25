@@ -6,6 +6,8 @@
 
 It is estimated that roughly 30% of patients visiting the primary care have musculoskeletal complaints (MSK). Many of these patients are referred to the rheumatology outpatient clinic by the first healthcare provider (GP). Providing timely and appropriate care is crucial for the future prognosis of these patients, but the specific type of care needed varies depending on the diagnosis. We aimed to optimize the triaging procedure by automatically screening and prioritizing patients with AI methods. Using only the contents of the referral letters, we developed Machine Learning (ML) models to identify RA, OA, FMS and patients needing chronic care (>3 months).
 
+For more information see our article published in npj Digital Medicine: https://www.nature.com/articles/s41746-025-01495-4 
+
 
 ## Installation
 
@@ -53,11 +55,9 @@ Which will start a notebook session in the browser from which you can inspect th
 General study flow showing the different steps of our approach.
 
 ## Citation
-If you were to use this pipeline, please cite our abstract (paper is in the making): 
+If you were to use this pipeline, please use the following citation: 
 
-Maarseveen TD, Glas HK, Veris-Van Dieren J, et al. POS0587 EMPLOYING MACHINE LEARNING TO PREDICT RA DIAGNOSIS FROM REFERRAL LETTERS BY THE GENERAL PRACTITIONER. Annals of the Rheumatic Diseases 2024;83:783-784.
-URL: https://ard.bmj.com/content/83/Suppl_1/783.2
-DOI: 10.1136/annrheumdis-2024-eular.1728
+Maarseveen, T.D., Glas, H.K., Veris-van Dieren, J. et al. Improving musculoskeletal care with AI enhanced triage through data driven screening of referral letters. npj Digit. Med. 8, 98 (2025). https://doi.org/10.1038/s41746-025-01495-4
 
 
 ## Contact
