@@ -53,9 +53,6 @@ If you were to use this pipeline, please use the following citation:
 
 Maarseveen, T.D., Glas, H.K., Veris-van Dieren, J. et al. Improving musculoskeletal care with AI enhanced triage through data driven screening of referral letters. npj Digit. Med. 8, 98 (2025). https://doi.org/10.1038/s41746-025-01495-4
 
-## Contact
-If you experience difficulties with implementing the pipeline or if you have any other questions feel free to send me an e-mail. You can contact me on: t.d.maarseveen@lumc.nl 
-
 
 ## Directory Structure
 * `README.md`: This file
@@ -83,3 +80,6 @@ If you experience difficulties with implementing the pipeline or if you have any
 * `build_conda_env.sh`: Example batch script to set up the required conda environment for this project 
 * `build_kernel.sh`: Example batch script to set up the required Python kernel (for Jupyter Notebook) for this project 
 
+
+## Contact
+If you experience difficulties with implementing the pipeline or if you have any other questions feel free to send me an e-mail. You can contact me on: t.d.maarseveen@lumc.nl 
